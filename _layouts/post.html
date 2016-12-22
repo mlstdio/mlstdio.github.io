@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-<article id="post-page">
-	{% assign post = page %}
+{% assign post = page %}
 {% if post.tags.size > 0 %}
     {% capture tags_content %}Posted with {% if post.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
     {% for post_tag in post.tags %}
@@ -19,6 +18,8 @@ layout: default
 {% else %}
     {% assign tags_content = '' %}
 {% endif %}
+<article id="post-page">
+	<p id="post-meta">{{ tags_content }}</p>
 	<h2>{{ page.title }}</h2>
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
 	<div class="content">
