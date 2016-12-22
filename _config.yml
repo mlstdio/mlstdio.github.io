@@ -1,11 +1,10 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+title: MLStudio
+description: "ML, DL, Optimal Control Theory Blog"
+url: "https://edmophia.github.io/"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Sung-Yub Kim"
+  email: "edmophia@snu.ac.kr"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
@@ -34,15 +33,6 @@ gems:
 version: "1.1.0"
 
 # Options
-custom_header: false
-custom_nav_footer: false
+custom_header: True
+custom_nav_footer: True
 reverse: false
-
-# Where things are
-collections:
-  my_categories:
-    output: true
-    permalink: /blog/category/:name/
-  my_tags:
-    output: true
-    permalink: /blog/tag/:name/
