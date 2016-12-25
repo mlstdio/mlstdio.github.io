@@ -47,7 +47,7 @@ tags:
 
 그들의 대표적인 개념 중 하나는 Distributed Representation 입니다. 이 개념은 입력값들은 다양한 특징들에 의해 결정되고, 특징들은 다양한 입력값들에 의해 포함될 수 있다는 것입니다. 이는 즉, 우리가 학습하는 입력값들이 결정되는 요인이 여러가지가 있으면 우리의 입력값들은 하나의 요인이 아니라 여러 요인이 동시에 작용하여 학습하는 것이며, 또 각 요인들은 여러 입력에서 등장할 수 있음을 의미합니다.
 
-또 다른 그들의 대표적인 개념은 Parallel Distributed Processing입니다. David Rumelhart et al.의 <a href='https://mitpress.mit.edu/books/parallel-distributed-processing'>Parallel Distributed Processing, Volume 1</a> 에서 제시된 이 개념은 일반화 델타 규칙이라고 불리는 <a href='https://en.wikipedia.org/wiki/Backpropagation'>역전파 알고리즘(Backpropagation Algorithm)</a>을 제안했으며 이를 통해 첫번째 세대에서 인공 신경망이 인기를 잃었던 이유는 다층 구조의 학습을 해결하였습니다.
+또 다른 그들의 대표적인 개념은 Parallel Distributed Processing입니다. David Rumelhart et al.의 <a href='https://mitpress.mit.edu/books/parallel-distributed-processing'>Parallel Distributed Processing, Volume 1</a> 에서 제시된 이 개념은 일반화 델타 규칙이라고 불리는 <a href='https://en.wikipedia.org/wiki/Backpropagation'>역전파 알고리즘(Backpropagation Algorithm)</a>을 제안했으며 이를 통해 첫번째 세대에서 인공 신경망이 인기를 잃었던 이유인 다층 구조의 학습을 해결하였습니다.
 
 ### <a href='https://en.wikipedia.org/wiki/Deep_learning'>Deep Learning(2006~)</a>
 
