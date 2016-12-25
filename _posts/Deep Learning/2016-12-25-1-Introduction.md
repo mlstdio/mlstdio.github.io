@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Introduction
-date: 2016-12-22
+title: Deep Learning Introduction
+date: 2016-12-25
 tags:
   - Deep Learning
 ---
