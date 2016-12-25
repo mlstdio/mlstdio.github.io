@@ -8,7 +8,7 @@ tags:
 
 # 1. Introduction
 
-본 게시물은 Ian Goodfellow et al. 의 <a href = http://www.deeplearningbook.org>Deep Learning</a>의 1장 Introduction의 흐름을 따라가면서 개인적으로 중요하다고 생각하는 부분들은 더 조사를 하여 정리한 포스트입니다.
+본 게시물은 Ian Goodfellow et al. 의 <a href='http://www.deeplearningbook.org'>Deep Learning</a>의 1장 Introduction의 흐름을 따라가면서 개인적으로 중요하다고 생각하는 부분들은 더 조사를 하여 정리한 포스트입니다.
 
 ## 서두
 
