@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-## About We
+## About Us
 <img src="img/profile.JPG" alt="Drawing" style="width: 300px;"/>
 
 About Sung-Yub
